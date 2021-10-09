@@ -18,4 +18,4 @@ SELECT Movie_Name,Year_Of_realsed FROM MOVIES ORDER BY Year_Of_Realsed ASC;
 
 SELECT Movie_Name,Year_Of_Realsed from MOVIES WHERE Director='Rohit Shetty';
 
-SELECT Movie_Name,Year_Of_Realsed from MOVIES WHERE Director='Kabir Khan' AND Actor='Salman Khan';
+SELECT Movie_Name,Director from MOVIES WHERE Director='Kabir Khan' AND Actor='Salman Khan';
