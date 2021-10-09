@@ -11,7 +11,11 @@ INSERT INTO MOVIES VALUES('Chhichhore', 'Sushant Singh Rajput', 'Shraddha Kapoor
 INSERT INTO MOVIES VALUES('Chennai Express','Shah Rukh Khan',' Deepika Padukone',2013,'Rohit Shetty ');
 
 SELECT * FROM MOVIES;
+
 SELECT Movie_Name,Actor,Actress,Director FROM MOVIES WHERE Actor!='Sushant Singh Rajput';
+
 SELECT Movie_Name,Year_Of_realsed FROM MOVIES ORDER BY Year_Of_Realsed ASC;
+
 SELECT Movie_Name,Year_Of_Realsed from MOVIES WHERE Director='Rohit Shetty';
+
 SELECT Movie_Name,Year_Of_Realsed from MOVIES WHERE Director='Kabir Khan' AND Actor='Salman Khan';
