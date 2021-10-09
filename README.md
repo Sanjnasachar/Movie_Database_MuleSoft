@@ -6,7 +6,7 @@
 ## 1. Retrieve all the attribute present in the movie table.
 ![Screenshot (2223)](https://user-images.githubusercontent.com/48375774/136655933-95cd2069-b6b8-4e01-bd1a-f830d34c2795.png)
 
-## 2. Retrieve Movie_Name,Actor,Actress,Director not Acted by Sushant Singh Rajput.
+## 2. Retrieve Movie_Name,Actor,Actress,Director where actor is not Sushant Singh Rajput.
 ![Screenshot (2228)](https://user-images.githubusercontent.com/48375774/136656122-06635abd-543f-47a8-a420-126281538ec9.png)
 
 ## 3. Retrieve Movie_Name,Year_Of_Realsed in Ascending Order.
