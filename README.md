@@ -15,5 +15,6 @@
 ## 4. Retrieve Movie_Name,Year_Of_Realsed Directed by Rohit Shetty.
 ![Screenshot (2226)](https://user-images.githubusercontent.com/48375774/136656214-5bd89c55-ca18-4793-8355-e4418b1588be.png)
 
-## 5. Retrieve Movie_Name,Year_Of_Realsed Directed by Kabir Khan and  Acted by the Actor Salman Khan.
-![Screenshot (2225)](https://user-images.githubusercontent.com/48375774/136656236-5d83e107-b6e5-4415-99e3-fd4a26d29318.png)
+## 5. Retrieve Movie_Name,Director Directed by Kabir Khan and  Acted by the Actor Salman Khan.
+![Screenshot (2231)](https://user-images.githubusercontent.com/48375774/136659555-ee1a48ad-cbff-4008-b14a-1d49811e822c.png)
+
